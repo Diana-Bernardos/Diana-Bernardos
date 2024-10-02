@@ -30,7 +30,7 @@
 Aplicación web para gestionar proyectos personales. Muestra un listado de proyectos y permite agregar nuevos proyectos.  
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
-### API Natural Face Cream
+### Spice Developers
 ![API Natural Face Cream](URL-de-la-imagen)
 Desarrollo de una API para gestionar información utilizando Express.js, Node.js y MySQL.  
 **Tecnologías:** SQL, MySQL Server, Node.js, Postman.
@@ -54,6 +54,19 @@ Página web para crear tarjetas de visita personalizadas.
 ### Desarrolladora Freelance en IA Generativa
 **Empresa Remoto** | Madrid | Julio 2024 - Actualidad  
 Colaboré con una empresa para optimizar procesos internos mediante la implementación de modelos de IA generativa usando fine tuning.
+
+### Desarrolladora Web Freelance 
+Proyectos personales y colaborativos | 2023 - Presente Ubicación
+* Desarrollé diversas aplicaciones web con tecnologías como React, JavaScript, Node.js y
+MySQL.
+Project Sphere: Aplicación para gestionar proyectos personales. Implementé listados,
+formularios de creación y bases de datos.
+Tecnologías: HTML, CSS, React, JavaScript, Node.js, MySQL.
+CrazyMom: Aplicación móvil para la gestión de agendas familiares. Enfocada en ayudar a
+madres a organizar tareas.
+Tecnologías: React, JavaScript. (Pendiente de despliegue)
+Easy Peasy Cards: página web para crear tarjetas de visita personalizadas. Tecnologías:
+Utilizando JavaScript, CSS y HTML.
 
 ### Responsable de Facturación
 **Hospital Ruber Internacional** | Madrid | Marzo 2005 - Mayo 2020  
