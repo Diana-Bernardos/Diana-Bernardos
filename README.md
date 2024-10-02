@@ -15,6 +15,14 @@
 - Programación de aplicaciones
 - Aprendizaje de tecnologías innovadoras
 
+## 💻 Nueva APP "CRAZYMOM"
+ -Aplicación Móvil, para ayudar a gestionar las agendas de nuestros hijos de una manera ágil.
+Este proyecto esta dedicado a las madres actuales, para facilitarles los recordatorios y
+tareas que se nos acumulan con los niños, y que muchas veces no llegamos a todo. Este es
+un proyecto personal basado en mi experiencia y creo que va a ayudar a muchas
+CrazyMom.
+**Tecnologías:** React, JavaScript, SASS.
+ 
 ## 🌱 Aprendizaje Actual
 - Técnicas avanzadas de React
 - Implementación de IA generativa
@@ -31,9 +39,9 @@ Aplicación web para gestionar proyectos personales. Muestra un listado de proye
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
 ### Spice Developers
-![API Natural Face Cream](URL-de-la-imagen)
-Desarrollo de una API para gestionar información utilizando Express.js, Node.js y MySQL.  
-**Tecnologías:** SQL, MySQL Server, Node.js, Postman.
+![Spice Developers](URL-de-la-imagen)
+Proyecto grupal de creación web responsive de presentación de equipo. HTML Y CSS
+**Tecnologías:** HTML,CSS.
 
 ### Rick and Morty
 ![Rick and Morty](URL-de-la-imagen)
