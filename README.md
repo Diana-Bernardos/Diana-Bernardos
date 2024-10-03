@@ -9,7 +9,7 @@
 - **Correo electrónico:** [dianilla75@gmail.com](mailto:dianilla75@gmail.com)
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
 - **GitHub:** [Perfil de GitHub](https://github.com/Diana-Bernardos)
-- **Landing Page:** [Landing Page]([http://127.0.0.1:5500/indexbanner.html](http://127.0.0.1:5500/indexbanner.html))
+- **Landing Page:** [Landing Page](http://127.0.0.1:5500/indexbanner.html)
 
 ## 👀 Intereses
 - Desarrollo web
