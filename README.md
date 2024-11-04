@@ -6,10 +6,7 @@
 - Madrid, España
 
 ## 📧 Contacto
-- **Correo electrónico:** [dianilla75@gmail.com](mailto:dianilla75@gmail.com)
 - **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **GitHub:** [Perfil de GitHub](https://github.com/Diana-Bernardos)
-- **Landing Page:** [Landing Page](https://diana-bernardos.github.io/Landing-page/indexbanner.html)
 
 ## 👀 Intereses
 - Desarrollo web
@@ -28,6 +25,7 @@ CrazyMom.
 - Técnicas avanzadas de React
 - Implementación de IA generativa
 - Python
+- TypeScript
 
 ## 💞️ Buscando Colaboraciones
 - Proyectos de código abierto
@@ -35,27 +33,17 @@ CrazyMom.
 
 ## 🚀 Proyectos Destacados
 ### Project Sphere
-![Project Sphere](URL-de-la-imagen)
+![Project Sphere]("https://diana-bernardos.github.io/project-promo-X-module-3-team-2/")
 Aplicación web para gestionar proyectos personales. Muestra un listado de proyectos y permite agregar nuevos proyectos.  
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
 ### Spice Developers
-![Spice Developers](URL-de-la-imagen)
+![Spice Developers]("https://ellisoalgo.github.io/project-grupo-2/")
 Proyecto grupal de creación web responsive de presentación de equipo. HTML Y CSS
 **Tecnologías:** HTML,CSS.
 
-### Rick and Morty
-![Rick and Morty](URL-de-la-imagen)
-Página web con un listado de personajes de Rick and Morty, con filtros por nombre y características.  
-**Tecnologías:** React, JavaScript, CSS.
-
-### Grogu-Game
-![Grogu-Game](URL-de-la-imagen)
-Jugamos con Grogu, para llegar al final del tablero lanzando el dado sin que Grogu nos robe toda la mercancía.  
-**Tecnologías:** React, JavaScript, SASS.
-
 ### Easy Peasy Cards
-![Easy Peasy Cards](URL-de-la-imagen)
+![Easy Peasy Cards]("https://aidanarr.github.io/project-promo-X-module-2-team-3/")
 Página web para crear tarjetas de visita personalizadas.  
 **Tecnologías:** JavaScript, CSS, HTML.
 
@@ -71,9 +59,11 @@ MySQL.
 Project Sphere: Aplicación para gestionar proyectos personales. Implementé listados,
 formularios de creación y bases de datos.
 Tecnologías: HTML, CSS, React, JavaScript, Node.js, MySQL.
+
 CrazyMom: Aplicación móvil para la gestión de agendas familiares. Enfocada en ayudar a
 madres a organizar tareas.
 Tecnologías: React, JavaScript. (Pendiente de despliegue)
+
 Easy Peasy Cards: página web para crear tarjetas de visita personalizadas. Tecnologías:
 Utilizando JavaScript, CSS y HTML.
 
