@@ -57,16 +57,6 @@ Colaboré con una empresa para optimizar procesos internos mediante la implement
 Proyectos personales y colaborativos | 2023 - Presente Ubicación
 * Desarrollé diversas aplicaciones web con tecnologías como React, JavaScript, Node.js y
 MySQL.
-Project Sphere: Aplicación para gestionar proyectos personales. Implementé listados,
-formularios de creación y bases de datos.
-Tecnologías: HTML, CSS, React, JavaScript, Node.js, MySQL.
-
-CrazyMom: Aplicación móvil para la gestión de agendas familiares. Enfocada en ayudar a
-madres a organizar tareas.
-Tecnologías: React, JavaScript. (Pendiente de despliegue)
-
-Easy Peasy Cards: página web para crear tarjetas de visita personalizadas. Tecnologías:
-Utilizando JavaScript, CSS y HTML.
 
 ### Responsable de Facturación
 **Hospital Ruber Internacional** | Madrid | Marzo 2005 - Mayo 2020  
@@ -77,7 +67,7 @@ Facturación de sociedades médicas utilizando IMDH-IFMS y CASIOPEA.
 - **Frameworks y librerías:** React, Django.
 - **Bases de datos:** MySQL, MongoDB.
 - **Herramientas de desarrollo:** Postman, Render.
-- **Inteligencia Artificial:** Deep Learning, Machine Learning, IA Generativa, LLM,Fine Tuning.
+- **Inteligencia Artificial:** Deep Learning, Machine Learning, IA Generativa, LLM.
 
 ## 🎓 Formación Técnica
 **ADALAB** | Curso: Desarrollo y Programación de Páginas Web y Aplicaciones Web | Marzo 2024 - Actualidad  
