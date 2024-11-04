@@ -6,7 +6,7 @@
 - Madrid, España
 
 ## 📧 Contacto
-- [** Perfil de LinkedIn**](www.linkedin.com/in/diana-bernardos-moraleda-536378223)
+- [Perfil de LinkedIn](https://www.linkedin.com/in/diana-bernardos-moraleda-536378223/)
 
 ## 👀 Intereses
 - Desarrollo web
