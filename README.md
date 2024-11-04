@@ -6,7 +6,7 @@
 - Madrid, España
 
 ## 📧 Contacto
-- **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:**(https://www.linkedin.com/in/tu-perfil)
 
 ## 👀 Intereses
 - Desarrollo web
@@ -33,17 +33,17 @@ CrazyMom.
 
 ## 🚀 Proyectos Destacados
 ### Project Sphere
-![Project Sphere]("https://diana-bernardos.github.io/project-promo-X-module-3-team-2/")
+("https://diana-bernardos.github.io/project-promo-X-module-3-team-2/")
 Aplicación web para gestionar proyectos personales. Muestra un listado de proyectos y permite agregar nuevos proyectos.  
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
 ### Spice Developers
-![Spice Developers]("https://ellisoalgo.github.io/project-grupo-2/")
+("https://ellisoalgo.github.io/project-grupo-2/")
 Proyecto grupal de creación web responsive de presentación de equipo. HTML Y CSS
 **Tecnologías:** HTML,CSS.
 
 ### Easy Peasy Cards
-![Easy Peasy Cards]("https://aidanarr.github.io/project-promo-X-module-2-team-3/")
+("https://aidanarr.github.io/project-promo-X-module-2-team-3/")
 Página web para crear tarjetas de visita personalizadas.  
 **Tecnologías:** JavaScript, CSS, HTML.
 
