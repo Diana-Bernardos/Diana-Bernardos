@@ -6,7 +6,7 @@
 - Madrid, España
 
 ## 📧 Contacto
-- **LinkedIn:**www.linkedin.com/in/diana-bernardos-moraleda-536378223
+- [** Perfil de LinkedIn**](www.linkedin.com/in/diana-bernardos-moraleda-536378223)
 
 ## 👀 Intereses
 - Desarrollo web
@@ -32,25 +32,26 @@ CrazyMom.
 - Desarrollo de aplicaciones innovadoras
 
 ## 🚀 Proyectos Destacados
-### Project Sphere
-https://diana-bernardos.github.io/project-promo-X-module-3-team-2/
+
+### [Project Sphere](https://diana-bernardos.github.io/project-promo-X-module-3-team-2/)
+
 Aplicación web para gestionar proyectos personales. Muestra un listado de proyectos y permite agregar nuevos proyectos.  
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
-### Spice Developer
-https://ellisoalgo.github.io/project-grupo-2/
+### [Spice Developers](https://ellisoalgo.github.io/project-grupo-2/ )
+
 Proyecto grupal de creación web responsive de presentación de equipo. HTML Y CSS
 **Tecnologías:** HTML,CSS.
 
-### Easy Peasy Cards
-https://aidanarr.github.io/project-promo-X-module-2-team-3/
+### [Easy Peasy Cards](https://aidanarr.github.io/project-promo-X-module-2-team-3/)
+
 Página web para crear tarjetas de visita personalizadas.  
 **Tecnologías:** JavaScript, CSS, HTML.
 
 ## 💼 Experiencia Profesional
 ### Desarrolladora Freelance en IA Generativa
 **Empresa Remoto** | Madrid | Julio 2024 - Actualidad  
-Colaboré con una empresa para optimizar procesos internos mediante la implementación de modelos de IA generativa usando fine tuning.
+Colaboré con una empresa para optimizar procesos internos mediante la implementación de modelos de IA generativa .
 
 ### Desarrolladora Web Freelance 
 Proyectos personales y colaborativos | 2023 - Presente Ubicación
