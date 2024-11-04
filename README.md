@@ -6,7 +6,7 @@
 - Madrid, España
 
 ## 📧 Contacto
-- **LinkedIn:**(https://www.linkedin.com/in/tu-perfil)
+- **LinkedIn:**(www.linkedin.com/in/diana-bernardos-moraleda-536378223)
 
 ## 👀 Intereses
 - Desarrollo web
@@ -33,7 +33,7 @@ CrazyMom.
 
 ## 🚀 Proyectos Destacados
 ### Project Sphere
-("https://diana-bernardos.github.io/project-promo-X-module-3-team-2/")
+[https://github.com/Diana-Bernardos/Landing-page/blob/main/images/ebook-example%202%20(1).jpg]("https://diana-bernardos.github.io/project-promo-X-module-3-team-2/")
 Aplicación web para gestionar proyectos personales. Muestra un listado de proyectos y permite agregar nuevos proyectos.  
 **Tecnologías:** React, JavaScript, CSS, Node.js, MySQL, Render.
 
