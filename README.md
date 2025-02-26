@@ -13,13 +13,9 @@
 - Programación de aplicaciones
 - Aprendizaje de tecnologías innovadoras
 
-## 💻 Nueva APP "CRAZYMOM"
- -Aplicación Móvil, para ayudar a gestionar las agendas de nuestros hijos de una manera ágil.
-Este proyecto esta dedicado a las madres actuales, para facilitarles los recordatorios y
-tareas que se nos acumulan con los niños, y que muchas veces no llegamos a todo. Este es
-un proyecto personal basado en mi experiencia y creo que va a ayudar a muchas
-CrazyMom.
-**Tecnologías:** React, JavaScript, SASS.
+## 💻 Nueva APP "FAMILY-PLANNER"
+ -Aplicación Móvil, Family Planner es una aplicación móvil desarrollada con React Native y diseñada para facilitar la organización familiar. Permite a las familias gestionar calendarios compartidos, eventos personales, listas de compras, actividades escolares y recibir notificaciones de recordatorio.Esta aplicación está diseñada para ser altamente personalizable y adaptable a las necesidades específicas de cada familia, facilitando la organización y coordinación de actividades diarias, escolares y de planificación en un solo lugar. Ademas tiene implementado un asistente personal con LLM de Ollama, para que sea todavia más util.
+**Tecnologías:** React Native, TypeScript, Modelo LLM Ollama.
  
 ## 🌱 Aprendizaje Actual
 - Técnicas avanzadas de React
